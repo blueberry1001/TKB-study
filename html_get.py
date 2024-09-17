@@ -8,6 +8,8 @@ def gethtml(url):
     ret = None
     if response.status_code == 200:
         ret = response.text
+    else:
+        print(url, response.status_code, response.json())
     return ret
 
 def get_problemstatement(s):
@@ -50,4 +52,4 @@ def getdata(url = ""):
     # print(ret)
     ret = sorted(set(ret),reverse=True)
     return ret
-print(getdata("https://atcoder.jp/contests/abc361/tasks/abc361_a"))
+# print(getdata("https://atcoder.jp/contests/abc361/tasks/abc361_a"))

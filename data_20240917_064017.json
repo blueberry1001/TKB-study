@@ -1,0 +1,77 @@
+{
+  "CF17_FINAL_D._Zabuton": {
+    "Difficulty": 2509,
+    "Tags": [
+      "#CF17_F",
+      "#CF1",
+      "#EDPC-X",
+      "#\u5168\u9806\u5e8f",
+      "#DP",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "ARC037_C._\u5104\u30de\u30b9\u8a08\u7b97": {
+    "Difficulty": 1824,
+    "Tags": [
+      "#ARC037",
+      "#ARC",
+      "#\u7b54\u3048\u3067\u4e8c\u5206\u63a2\u7d22",
+      "#lower_bound"
+    ]
+  },
+  "ARC139_C._One_Three_Nine": {
+    "Difficulty": 2406,
+    "Tags": [
+      "#ARC139",
+      "#ARC",
+      "#\u8caa\u6b32",
+      "##\u69cb\u7bc9",
+      "#2\u6b21\u5143\u306b\u30d7\u30ed\u30c3\u30c8\u3057\u3066\u307f\u308b"
+    ]
+  },
+  "ARC053_C._\u9b54\u6cd5\u4f7f\u3044\u9ad8\u6a4b\u541b": {
+    "Difficulty": 1901,
+    "Tags": [
+      "#ARC053",
+      "#ARC",
+      "#\u5168\u9806\u5e8f",
+      "#\u30bd\u30fc\u30c8",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ARC146_B._Plus_and_AND": {
+    "Difficulty": 1335,
+    "Tags": [
+      "#ARC146",
+      "#ARC",
+      "#bit\u306b\u6ce8\u76ee",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "HITACHI2020_C._ThREE": {
+    "Difficulty": 2013,
+    "Tags": [
+      "#HITACH",
+      "#HIT",
+      "#\u6728",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ABC235_E._MST_+_1": {
+    "Difficulty": 1304,
+    "Tags": [
+      "#ABC235",
+      "#ABC",
+      "#Union-Find"
+    ]
+  },
+  "ABC302_G._Sort_from_1_to_4": {
+    "Difficulty": 1891,
+    "Tags": [
+      "#ABC302",
+      "#ABC",
+      "#\u30bd\u30fc\u30c8",
+      "##\u9806\u5217\u5168\u63a2\u7d22"
+    ]
+  }
+}

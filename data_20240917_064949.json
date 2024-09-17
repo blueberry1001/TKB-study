@@ -1,0 +1,1470 @@
+{
+  "CF17_FINAL_D._Zabuton": {
+    "Difficulty": 2509,
+    "Tags": [
+      "#CF17_F",
+      "#CF1",
+      "#EDPC-X",
+      "#\u5168\u9806\u5e8f",
+      "#DP",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "ARC037_C._\u5104\u30de\u30b9\u8a08\u7b97": {
+    "Difficulty": 1824,
+    "Tags": [
+      "#ARC037",
+      "#ARC",
+      "#\u7b54\u3048\u3067\u4e8c\u5206\u63a2\u7d22",
+      "#lower_bound"
+    ]
+  },
+  "ARC139_C._One_Three_Nine": {
+    "Difficulty": 2406,
+    "Tags": [
+      "#ARC139",
+      "#ARC",
+      "#\u8caa\u6b32",
+      "##\u69cb\u7bc9",
+      "#2\u6b21\u5143\u306b\u30d7\u30ed\u30c3\u30c8\u3057\u3066\u307f\u308b"
+    ]
+  },
+  "ARC053_C._\u9b54\u6cd5\u4f7f\u3044\u9ad8\u6a4b\u541b": {
+    "Difficulty": 1901,
+    "Tags": [
+      "#ARC053",
+      "#ARC",
+      "#\u5168\u9806\u5e8f",
+      "#\u30bd\u30fc\u30c8",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ARC146_B._Plus_and_AND": {
+    "Difficulty": 1335,
+    "Tags": [
+      "#ARC146",
+      "#ARC",
+      "#bit\u306b\u6ce8\u76ee",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "HITACHI2020_C._ThREE": {
+    "Difficulty": 2013,
+    "Tags": [
+      "#HITACH",
+      "#HIT",
+      "#\u6728",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ABC235_E._MST_+_1": {
+    "Difficulty": 1304,
+    "Tags": [
+      "#ABC235",
+      "#ABC",
+      "#Union-Find"
+    ]
+  },
+  "ABC302_G._Sort_from_1_to_4": {
+    "Difficulty": 1891,
+    "Tags": [
+      "#ABC302",
+      "#ABC",
+      "#\u30bd\u30fc\u30c8",
+      "##\u9806\u5217\u5168\u63a2\u7d22"
+    ]
+  },
+  "DWACON5TH_PRELIMS_C._k-DMC": {
+    "Difficulty": 1747,
+    "Tags": [
+      "#DWACON",
+      "#DWA",
+      "#DisjointSparseTable"
+    ]
+  },
+  "TENKA1_2017_D._IntegerotS": {
+    "Difficulty": 1789,
+    "Tags": [
+      "#TENKA1",
+      "#TEN",
+      "#bit"
+    ]
+  },
+  "KEYENCE2020_D._Swap_and_Flip": {
+    "Difficulty": 1841,
+    "Tags": [
+      "#KEYENC",
+      "#KEY",
+      "#bitDP",
+      "#\u96a3\u63a5SWAP"
+    ]
+  },
+  "ABC243_E._Edge_Deletion": {
+    "Difficulty": 1637,
+    "Tags": [
+      "#ABC243",
+      "#ABC",
+      "#\u30ef\u30fc\u30b7\u30e3\u30eb\u30d5\u30ed\u30a4\u30c9\u6cd5",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ABC180_F._Unbranched": {
+    "Difficulty": 2419,
+    "Tags": [
+      "#ABC180",
+      "#ABC",
+      "#\u30b0\u30e9\u30d5\u306e\u6570\u3048\u4e0a\u3052",
+      "#DP",
+      "#\u4e8c\u9805\u4fc2\u6570",
+      "#\u6700\u5927\u3092\u4ee5\u4e0b\u306b\u8a00\u3044\u63db\u3048"
+    ]
+  },
+  "AGC049_A._Erasing_Vertices": {
+    "Difficulty": 1922,
+    "Tags": [
+      "#AGC049",
+      "#AGC",
+      "#\u671f\u5f85\u5024",
+      "#\u4e3b\u5ba2\u8ee2\u5012",
+      "#BFS",
+      "#\u64cd\u4f5c\u306e\u9806\u756a\u3092\u9806\u5217\u3068\u5bfe\u5fdc\u3055\u305b\u308b",
+      "#\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+    ]
+  },
+  "ARC114_E._Paper_Cutting_2": {
+    "Difficulty": 2514,
+    "Tags": [
+      "#ARC114",
+      "#ARC",
+      "#\u671f\u5f85\u5024",
+      "#\u4e3b\u5ba2\u8ee2\u5012",
+      "#\u64cd\u4f5c\u306e\u9806\u756a\u3092\u9806\u5217\u3068\u5bfe\u5fdc\u3055\u305b\u308b",
+      "#\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+    ]
+  },
+  "AGC048_B._Bracket_Score": {
+    "Difficulty": 1902,
+    "Tags": [
+      "#AGC048",
+      "#AGC",
+      "#\u62ec\u5f27\u5217",
+      "#\u8caa\u6b32",
+      "##\u5168\u63a2\u7d22",
+      "#\u6700\u5927\u5024"
+    ]
+  },
+  "ARC091_E._LISDL": {
+    "Difficulty": 1889,
+    "Tags": [
+      "#ARC091",
+      "#ARC",
+      "##LIS",
+      "##\u69cb\u7bc9",
+      "#\u5ea7\u6a19\u5727\u7e2e",
+      "#\u30d6\u30ed\u30c3\u30af\u5206\u5272"
+    ]
+  },
+  "CODE_FESTIVAL_2017_QUALB_C._3_Steps": {
+    "Difficulty": 1883,
+    "Tags": [
+      "#CODE_F",
+      "#COD",
+      "#\u4e8c\u90e8\u30b0\u30e9\u30d5"
+    ]
+  },
+  "AGC037_C._Numbers_on_a_Circle": {
+    "Difficulty": 1882,
+    "Tags": [
+      "#AGC037",
+      "#AGC",
+      "#\u64cd\u4f5c\u3092\u9006\u304b\u3089\u898b\u308b",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "AGC014_C._Closed_Rooms": {
+    "Difficulty": 1863,
+    "Tags": [
+      "#AGC014",
+      "#AGC",
+      "#BFS",
+      "#\u554f\u984c\u306e\u8a00\u3044\u63db\u3048"
+    ]
+  },
+  "AGC008_B._Contiguous_Repainting": {
+    "Difficulty": 1822,
+    "Tags": [
+      "#AGC008",
+      "#AGC",
+      "#\u64cd\u4f5c\u3092\u9006\u304b\u3089\u898b\u308b",
+      "#\u5c3a\u53d6\u308a\u6cd5"
+    ]
+  },
+  "ARC130_C._Digit_Sum_Minimization": {
+    "Difficulty": 1814,
+    "Tags": [
+      "#ARC130",
+      "#ARC",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ARC157_C._YY_Square": {
+    "Difficulty": 1802,
+    "Tags": [
+      "#ARC157",
+      "#ARC",
+      "#\u4e8c\u9805\u4fc2\u6570",
+      "#DP",
+      "#\u5f0f\u5909\u5f62"
+    ]
+  },
+  "ARC128_C._Max_Dot": {
+    "Difficulty": 1810,
+    "Tags": [
+      "#ARC128",
+      "#ARC",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ABC178_A._Not": {
+    "Difficulty": -1197,
+    "Tags": [
+      "#ABC178",
+      "#ABC",
+      "#bit"
+    ]
+  },
+  "ABC214_E._Packing_Under_Range_Regulations": {
+    "Difficulty": 1835,
+    "Tags": [
+      "#ABC214",
+      "#ABC",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "ABC362_G._Count_Substring_Query": {
+    "Difficulty": 1625,
+    "Tags": [
+      "#ABC362",
+      "#ABC",
+      "#SuffixArray"
+    ]
+  },
+  "ABC359_G._Sum_of_Tree_Distance": {
+    "Difficulty": 2099,
+    "Tags": [
+      "#ABC359",
+      "#ABC",
+      "#LCA",
+      "#\u5e73\u65b9\u5206\u5272"
+    ]
+  },
+  "ABC340_G._Leaf_Color": {
+    "Difficulty": 2401,
+    "Tags": [
+      "#ABC340",
+      "#ABC",
+      "#\u6728DP",
+      "#AuxiliaryTree"
+    ]
+  },
+  "ACL1_C._Moving_Pieces": {
+    "Difficulty": 1983,
+    "Tags": [
+      "#ACL1_C",
+      "#ACL",
+      "#\u6700\u5c0f\u8cbb\u7528\u6d41"
+    ]
+  },
+  "ARC026_C._\u86cd\u5149\u706f": {
+    "Difficulty": 1930,
+    "Tags": [
+      "#ARC026",
+      "#ARC",
+      "#DP",
+      "##multiset",
+      "#SegmentTreeBeats!"
+    ]
+  },
+  "TENKA1_2012_C._\u5e2d\u304c\u8db3\u308a\u306a\u3044": {
+    "Difficulty": 1936,
+    "Tags": [
+      "#TENKA1",
+      "#TEN",
+      "#\u5f69\u8272\u6570\u3092\u6c42\u3081\u308b\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0",
+      "#\u65e5\u6642\u8a08\u7b97"
+    ]
+  },
+  "CODE_FESTIVAL_MORNING_EASY_D._\u6795\u6c7a\u3081": {
+    "Difficulty": 1999,
+    "Tags": [
+      "#CODE_F",
+      "#COD",
+      "#\u30bd\u30fc\u30c8",
+      "#\u8caa\u6b32",
+      "#priority_queue"
+    ]
+  },
+  "ABC215_G._Colorful_Candies_2": {
+    "Difficulty": 2276,
+    "Tags": [
+      "#ABC215",
+      "#ABC",
+      "#\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027",
+      "#PolyominalTaylorShift",
+      "#\u4e8c\u9805\u4fc2\u6570"
+    ]
+  },
+  "ARC137_D._Prefix_XORs": {
+    "Difficulty": 2191,
+    "Tags": [
+      "#ARC137",
+      "#ARC",
+      "#\u30ea\u30e5\u30ab\u306e\u5b9a\u7406",
+      "#\u9ad8\u901f\u30bc\u30fc\u30bf\u5909\u63db"
+    ]
+  },
+  "057_-_Flip_Flap\uff08\u26056\uff09": {
+    "Difficulty": "None",
+    "Tags": [
+      "#OtherContest",
+      "#\u5178\u578b90",
+      "#xor\u57fa\u5e95"
+    ]
+  },
+  "ABC350_G._Mediator": {
+    "Difficulty": 2058,
+    "Tags": [
+      "#ABC350",
+      "#ABC",
+      "#\u30af\u30a8\u30ea\u306e\u30e1\u30e2\u5316",
+      "#\u30af\u30a8\u30ea\u5e73\u65b9\u5206\u5272",
+      "#\u5e73\u65b9\u5206\u5272",
+      "#LickCutTree"
+    ]
+  },
+  "ABC356_F._Distance_Component_Size_Query": {
+    "Difficulty": 2152,
+    "Tags": [
+      "#ABC356",
+      "#ABC",
+      "#OfflineDynamicConnectivity"
+    ]
+  },
+  "ABC355_G._Baseball": {
+    "Difficulty": 2991,
+    "Tags": [
+      "#ABC355",
+      "#ABC",
+      "#Monge\u6700\u77ed\u8def",
+      "#\u9ec4\u91d1\u5206\u5272\u63a2\u7d22"
+    ]
+  },
+  "ABC252_G._Pre-Order": {
+    "Difficulty": 2153,
+    "Tags": [
+      "#ABC252",
+      "#ABC",
+      "#\u533a\u9593DP",
+      "#\u6728\u306e\u6570\u3048\u4e0a\u3052"
+    ]
+  },
+  "ABC191_F._GCD_or_MIN": {
+    "Difficulty": 2333,
+    "Tags": [
+      "#ABC191",
+      "#ABC",
+      "#\u7d04\u6570\u5217\u6319",
+      "#GCD"
+    ]
+  },
+  "ABC352_F._Estimate_Order": {
+    "Difficulty": 2052,
+    "Tags": [
+      "#ABC352",
+      "#ABC",
+      "#\u30ef\u30fc\u30b7\u30e3\u30eb\u30d5\u30ed\u30a4\u30c9\u6cd5",
+      "##\u9806\u5217\u5168\u63a2\u7d22"
+    ]
+  },
+  "ABC351_G._Hash_on_Tree": {
+    "Difficulty": 2920,
+    "Tags": [
+      "#ABC351",
+      "#ABC",
+      "#StaticTopTree"
+    ]
+  },
+  "ABC135_F._Strings_of_Eternity": {
+    "Difficulty": 2388,
+    "Tags": [
+      "#ABC135",
+      "#ABC",
+      "#Z-algorithm"
+    ]
+  },
+  "ABC315_G._Ai_+_Bj_+_Ck_=_X_(1_<=_i,_j,_k_<=_N)": {
+    "Difficulty": 2315,
+    "Tags": [
+      "#ABC315",
+      "#ABC",
+      "#\u62e1\u5f35\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u306e\u4e92\u9664\u6cd5",
+      "##\u6570\u5b66"
+    ]
+  },
+  "ABC196_F._Substring_2": {
+    "Difficulty": 2274,
+    "Tags": [
+      "#ABC196",
+      "#ABC",
+      "#\u7573\u307f\u8fbc\u307f"
+    ]
+  },
+  "ABC291_G._OR_Sum": {
+    "Difficulty": 2176,
+    "Tags": [
+      "#ABC291",
+      "#ABC",
+      "#\u7573\u307f\u8fbc\u307f"
+    ]
+  },
+  "ABC334_G._Christmas_Color_Grid_2": {
+    "Difficulty": 2242,
+    "Tags": [
+      "#ABC334",
+      "#ABC",
+      "#Lowlink"
+    ]
+  },
+  "ARC174_C._Catastrophic_Roulette": {
+    "Difficulty": 1706,
+    "Tags": [
+      "#ARC174",
+      "#ARC",
+      "#\u81ea\u5df1\u30eb\u30fc\u30d7\u3092\u542b\u3080\u671f\u5f85\u5024DP"
+    ]
+  },
+  "ABC128_F._Frog_Jump": {
+    "Difficulty": 2464,
+    "Tags": [
+      "#ABC128",
+      "#ABC",
+      "#DP",
+      "#\u8abf\u548c\u7d1a\u6570"
+    ]
+  },
+  "ABC193_F._Zebraness": {
+    "Difficulty": 2475,
+    "Tags": [
+      "#ABC193",
+      "#ABC",
+      "#PSP(Project_Selection_Problem\u3001\u71c3\u3084\u3059\u57cb\u3081\u308b\u554f\u984c)"
+    ]
+  },
+  "ARC085_E._MUL": {
+    "Difficulty": 2571,
+    "Tags": [
+      "#ARC085",
+      "#ARC",
+      "#\u6700\u5927\u6d41",
+      "#PSP(Project_Selection_Problem\u3001\u71c3\u3084\u3059\u57cb\u3081\u308b\u554f\u984c)"
+    ]
+  },
+  "ABC209_F._Deforestation": {
+    "Difficulty": 2307,
+    "Tags": [
+      "#ABC209",
+      "#ABC",
+      "#\u633f\u5165DP"
+    ]
+  },
+  "ABC348_F._Oddly_Similar": {
+    "Difficulty": 1955,
+    "Tags": [
+      "#ABC348",
+      "#ABC",
+      "##\u5168\u63a2\u7d22",
+      "#QCFium\u6cd5",
+      "#bitset"
+    ]
+  },
+  "ABC348_E._Minimize_Sum_of_Distances": {
+    "Difficulty": 1347,
+    "Tags": [
+      "#ABC348",
+      "#ABC",
+      "#\u5168\u65b9\u4f4d\u6728DP",
+      "#\u6728DP"
+    ]
+  },
+  "ABC348_D._Medicines_on_Grid": {
+    "Difficulty": 1108,
+    "Tags": [
+      "#ABC348",
+      "#ABC",
+      "#BFS",
+      "#\u62e1\u5f35BFS"
+    ]
+  },
+  "ABC348_C._Colorful_Beans": {
+    "Difficulty": 23,
+    "Tags": [
+      "#ABC348",
+      "#ABC"
+    ]
+  },
+  "ABC348_B._Farthest_Point": {
+    "Difficulty": -251,
+    "Tags": [
+      "#ABC348",
+      "#ABC"
+    ]
+  },
+  "ABC348_A._Penalty_Kick": {
+    "Difficulty": -1088,
+    "Tags": [
+      "#ABC348",
+      "#ABC"
+    ]
+  },
+  "ABC207_F._Tree_Patrolling": {
+    "Difficulty": 2398,
+    "Tags": [
+      "#ABC207",
+      "#ABC",
+      "#\u4e8c\u4e57\u306e\u6728DP"
+    ]
+  },
+  "ABC136_D._Gathering_Children": {
+    "Difficulty": 794,
+    "Tags": [
+      "#ABC136",
+      "#ABC",
+      "#\u30c0\u30d6\u30ea\u30f3\u30b0"
+    ]
+  },
+  "ABC167_D._Teleporter": {
+    "Difficulty": 754,
+    "Tags": [
+      "#ABC167",
+      "#ABC",
+      "#\u30c0\u30d6\u30ea\u30f3\u30b0"
+    ]
+  },
+  "ABC267_F._Exactly_K_Steps": {
+    "Difficulty": 1939,
+    "Tags": [
+      "#\u6728",
+      "#\u6728\u306e\u4e2d\u5fc3",
+      "#\u6728\u306e\u76f4\u5f84",
+      "#DFS",
+      "#\u30c0\u30d6\u30ea\u30f3\u30b0",
+      "#ABC",
+      "#ABC267"
+    ]
+  },
+  "ABC292_Ex._Rating_Estimator": {
+    "Difficulty": 2248,
+    "Tags": [
+      "#ABC292",
+      "#ABC",
+      "#\u9045\u5ef6\u30bb\u30b0\u30e1\u30f3\u30c8\u6728",
+      "#\u30bb\u30b0\u6728\u4e0a\u306e\u4e8c\u5206\u63a2\u7d22",
+      "#\u4e8c\u5206\u63a2\u7d22"
+    ]
+  },
+  "JSC2021_F._Max_Matrix": {
+    "Difficulty": 1954,
+    "Tags": [
+      "#JSC202",
+      "#JSC",
+      "#\u52d5\u7684BIT"
+    ]
+  },
+  "ABC272_G._Yet_Another_mod_M": {
+    "Difficulty": 2187,
+    "Tags": [
+      "#ABC272",
+      "#ABC",
+      "#\u7d04\u6570\u5217\u6319",
+      "#\u4e71\u629e"
+    ]
+  },
+  "ABC272_F._Two_Strings": {
+    "Difficulty": 2238,
+    "Tags": [
+      "#ABC272",
+      "#ABC",
+      "#SuffixArray"
+    ]
+  },
+  "ARC028_C._\u9ad8\u6a4b\u738b\u56fd\u306e\u5206\u5272\u7d71\u6cbb": {
+    "Difficulty": 1748,
+    "Tags": [
+      "#ARC028",
+      "#ARC",
+      "#\u5168\u65b9\u4f4d\u6728DP"
+    ]
+  },
+  "ABC008_D._\u91d1\u584a\u30b2\u30fc\u30e0": {
+    "Difficulty": 2203,
+    "Tags": [
+      "#ABC008",
+      "#ABC",
+      "#\u30e1\u30e2\u5316\u518d\u5e30",
+      "#DP"
+    ]
+  },
+  "ARC031_D._\u8cb7\u3044\u7269\u4e0a\u624b": {
+    "Difficulty": 2825,
+    "Tags": [
+      "#ARC031",
+      "#ARC",
+      "#\u6700\u5927\u6d41",
+      "#\u7b54\u3048\u3067\u4e8c\u5206\u63a2\u7d22"
+    ]
+  },
+  "ABC247_G._Dream_Team": {
+    "Difficulty": 2159,
+    "Tags": [
+      "#ABC247",
+      "#ABC",
+      "#\u6700\u5c0f\u8cbb\u7528\u6d41"
+    ]
+  },
+  "ABC235_F._Variety_of_Digits": {
+    "Difficulty": 2129,
+    "Tags": [
+      "#ABC235",
+      "#ABC",
+      "#\u6841DP",
+      "#bitDP"
+    ]
+  },
+  "ABC243_F._Lottery": {
+    "Difficulty": 2125,
+    "Tags": [
+      "#ABC243",
+      "#ABC",
+      "#DP"
+    ]
+  },
+  "ABC182_F._Valid_payments": {
+    "Difficulty": 2121,
+    "Tags": [
+      "#ABC182",
+      "#ABC",
+      "#DP",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "ABC022_D._Big_Bang": {
+    "Difficulty": 1857,
+    "Tags": [
+      "#ABC022",
+      "#ABC",
+      "#\u51f8\u5305",
+      "#\u5e7e\u4f55"
+    ]
+  },
+  "ABC222_F._Expensive_Expense": {
+    "Difficulty": 1934,
+    "Tags": [
+      "#ABC222",
+      "#ABC",
+      "#\u5168\u65b9\u4f4d\u6728DP"
+    ]
+  },
+  "EDPC_V_-_Subtree": {
+    "Difficulty": "None",
+    "Tags": [
+      "#OtherContest",
+      "#DP",
+      "#\u5168\u65b9\u4f4d\u6728DP"
+    ]
+  },
+  "ABC223_G._Vertex_Deletion": {
+    "Difficulty": 2351,
+    "Tags": [
+      "#ABC223",
+      "#ABC",
+      "#\u5168\u65b9\u4f4d\u6728DP",
+      "#\u6700\u5927\u30de\u30c3\u30c1\u30f3\u30b0"
+    ]
+  },
+  "ABC152_F._Tree_and_Constraints": {
+    "Difficulty": 1965,
+    "Tags": [
+      "#ABC152",
+      "#ABC",
+      "#\u30ef\u30fc\u30b7\u30e3\u30eb\u30d5\u30ed\u30a4\u30c9\u6cd5"
+    ]
+  },
+  "JOI_joi2013ho4_-_JOIOI_\u306e\u5854_(Tower_of_JOIOI)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:10)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u7b54\u3048\u3067\u4e8c\u5206\u63a2\u7d22"
+    ]
+  },
+  "JOI_joi2020ho_C_-_\u30b9\u30bf\u30f3\u30d7\u30e9\u30ea\u30fc_3_(Collecting_Stamps_3)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u533a\u9593DP",
+      "#\u5186\u74b0"
+    ]
+  },
+  "JOI_joi2018ho_D_-_\u5b9a\u671f\u5238_(Commuter_Pass)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u6cd5"
+    ]
+  },
+  "JOI_joisc2010_plugs_-_\u30d7\u30e9\u30b0_(Plugs)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2010_hideseek_-_\u304b\u304f\u308c\u3093\u307c_(Hide-and-seek)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u30af\u30a8\u30ea\u5148\u8aad\u307f"
+    ]
+  },
+  "JOI_joi2017yo_E_-_\u5c3e\u6839_(Ridge)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2017yo_D_-_\u306c\u3044\u3050\u308b\u307f\u306e\u6574\u7406_(Plush_Toys)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "JOI_joigsc2022_B_-_JOIG_\u30c4\u30a2\u30fc_(JOIG_Tour)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2018ho_B_-_\u7f8e\u8853\u5c55_(Art_Exhibition)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u7247\u65b9\u3092\u5168\u63a2\u7d22"
+    ]
+  },
+  "JOI_joi2012hoD_-_\u91d8_(Nails)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6\uff1a8)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2010_dna_-_DNA\u306e\u5408\u6210_(DNA_Synthesizer)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:8)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2023ho_A_-_\u7881\u77f3\u306a\u3089\u3079_2_(Stone_Arranging_2)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2008_nightman_-_\u591c\u8b66_(Nightman)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5e7e\u4f55"
+    ]
+  },
+  "JOI_joisc2007_lines_-_\u76f4\u7dda_(Lines)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea69)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5e7e\u4f55",
+      "#\u5206\u6570\u30e9\u30a4\u30d6\u30e9\u30ea"
+    ]
+  },
+  "JOI_joi2021_yo2_E_-_\u30b9\u30d1\u30a4_2_(Spy_2)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u8ad6\u7406\u30d1\u30ba\u30eb",
+      "#\u5f8c\u9000\u89e3\u6790"
+    ]
+  },
+  "JOI_joi2023_yo2_C_-_\u5857\u308a\u3064\u3076\u3057_(Painting)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#Union-Find"
+    ]
+  },
+  "ABC331_G._Collect_Them_All": {
+    "Difficulty": 2668,
+    "Tags": [
+      "#ABC331",
+      "#ABC",
+      "#FFT",
+      "#\u5206\u5272\u7d71\u6cbbFFT",
+      "#\u591a\u9805\u5f0f",
+      "#\u7573\u307f\u8fbc\u307f",
+      "#\u30de\u30eb\u30b3\u30d5\u9023\u9396",
+      "#\u671f\u5f85\u5024\u306e\u7dda\u5f62\u6027"
+    ]
+  },
+  "JOI_joisc2008_typhoon_-_\u53f0\u98a8_(Typhoon)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:9)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u30af\u30a8\u30ea\u5148\u8aad\u307f",
+      "#\u5ea7\u6a19\u5727\u7e2e"
+    ]
+  },
+  "ABC239_F._Construct_Highway": {
+    "Difficulty": 1959,
+    "Tags": [
+      "#ABC239",
+      "#ABC",
+      "#\u30b0\u30e9\u30d5",
+      "#Union-Find"
+    ]
+  },
+  "ABC217_F._Make_Pair": {
+    "Difficulty": 1954,
+    "Tags": [
+      "#ABC217",
+      "#ABC",
+      "#\u533a\u9593DP",
+      "#\u4e8c\u9805\u4fc2\u6570",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "JOI_joi2017ho_A_-_\u30d5\u30a7\u30fc\u30f3\u73fe\u8c61_(Foehn_Phenomena)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2016ho_A_-_\u30aa\u30ec\u30f3\u30b8\u306e\u51fa\u8377_(Oranges)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2016yo_D_-_JOI\u56fd\u306e\u304a\u6563\u6b69\u4e8b\u60c5_(Walking_in_JOI_Kingdom)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2014_H_-_JOIOJI": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#Zero-Sum-Ranges"
+    ]
+  },
+  "JOI_joi2014hoA_-_JOI_\u7d0b\u7ae0_(JOI_Emblem)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2014yo_D_-_\u90e8\u6d3b\u306e\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u8868_(Schedule)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#bit\u306b\u6ce8\u76ee"
+    ]
+  },
+  "JOI_joisc2013_4_-_JOI\u30dd\u30b9\u30bf\u30fc_(JOI_Poster)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5e7e\u4f55",
+      "#\u5c0f\u6570\u8aa4\u5dee"
+    ]
+  },
+  "JOI_joi2012hoC_-_\u591c\u5e97_(Night_Market)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u30ca\u30c3\u30d7\u30b6\u30c3\u30afDP"
+    ]
+  },
+  "JOI_joi2012yo_E_-_\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3_(Illumination)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u30cf\u30cb\u30ab\u30e0"
+    ]
+  },
+  "JOI_joisc2011_ioi_-_\u56fd\u969b\u60c5\u5831\u30aa\u30ea\u30f3\u30d4\u30c3\u30af_(IOI)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2011_banner_-_\u6a2a\u65ad\u5e55_(Banner)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2011ho_B_-_\u53e4\u672c\u5c4b_(Books)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2010_stairs_-_\u968e\u6bb5_(Stairs)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u7d2f\u7a4d\u548c\u3067\u9ad8\u901f\u5316\u3059\u308bDP",
+      "#\u30bb\u30b0\u30e1\u30f3\u30c8\u6728"
+    ]
+  },
+  "JOI_joi2009yo_C_-_\u9023\u9396": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u8caa\u6b32",
+      "#\u30e9\u30f3\u30ec\u30f3\u30b0\u30b9\u5727\u7e2e"
+    ]
+  },
+  "JOI_joi2010ho_C_-_\u3064\u3089\u3089": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#priority_queue"
+    ]
+  },
+  "JOI_joisc2008_origami_-_\u6298\u308a\u7d19_(Origami)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5ea7\u6a19\u5727\u7e2e",
+      "#DP\u914d\u5217\u306e\u4f7f\u3044\u307e\u308f\u3057"
+    ]
+  },
+  "JOI_joisc2008_nile_-_\u30ca\u30a4\u30eb\u30c9\u30c3\u30c8\u30b3\u30e0_(Nile.Com)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2008ho_C_-_\u30c0\u30fc\u30c4": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea66)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u534a\u5206\u5168\u5217\u6319"
+    ]
+  },
+  "JOI_joi2022ho_A_-_\u30a4\u30f3\u30bf\u30fc\u30ab\u30b9\u30c6\u30e9\u30fc_(Intercastellar)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:5)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joig2022_D_-_\u3044\u3061\u3054_2_(Strawberry_2)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#map"
+    ]
+  },
+  "JOI_joig2022_C_-_\u6295\u7968_(Voting)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2018ho_A_-_\u30b9\u30c8\u30fc\u30d6_(Stove)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:5)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#priority_queue"
+    ]
+  },
+  "JOI_joi2015yo_D_-_\u30b7\u30eb\u30af\u30ed\u30fc\u30c9_(Silk_Road)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2013ho1_-_\u96fb\u98fe_(Illumination)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:5)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2013yo_D_-_\u6691\u3044\u65e5\u3005_(Hot_days)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2012hoB_-_\u305f\u306e\u3057\u3044\u30ab\u30fc\u30c9\u30b2\u30fc\u30e0_(Card_Game_is_Fun)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:5)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "ABC259_F._Select_Edges": {
+    "Difficulty": 1961,
+    "Tags": [
+      "#ABC259",
+      "#ABC",
+      "#\u6728DP"
+    ]
+  },
+  "ABC167_F._Bracket_Sequencing": {
+    "Difficulty": 1961,
+    "Tags": [
+      "#ABC167",
+      "#ABC",
+      "#\u8caa\u6b32",
+      "#\u30e9\u30f3\u30c0\u30e0\u30c6\u30b9\u30c8",
+      "#\u62ec\u5f27\u5217"
+    ]
+  },
+  "ABC170_F._Pond_Skater": {
+    "Difficulty": 1968,
+    "Tags": [
+      "#ABC170",
+      "#ABC",
+      "#\u62e1\u5f35\u30c0\u30a4\u30af\u30b9\u30c8\u30e9"
+    ]
+  },
+  "JOI_joi2009ho_B_-_\u30d4\u30b6": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:6)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5186\u74b0"
+    ]
+  },
+  "JOI_joi2009ho_D_-_\u6563\u6b69": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:8)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "ARC074_D._3N_Numbers": {
+    "Difficulty": 1730,
+    "Tags": [
+      "#ARC074",
+      "#ARC",
+      "#ABC",
+      "#priority_queue"
+    ]
+  },
+  "JOI_joi2019_yo_E_-_\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3_(Illumination)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea6:7\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joig2022_E_-_\u30a8\u30b4\u30a4\u5c55_(EGOI_Exhibition)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u8caa\u6b32"
+    ]
+  },
+  "JOI_D_-_\u30d1\u30b9\u30bf_(Pasta)": {
+    "Difficulty": "None\uff08JOI\u96e3\u6613\u5ea6:5\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#EDPC-C"
+    ]
+  },
+  "JOI_joi2015ho_C_-_JOI_\u516c\u5712_(JOI_Park)": {
+    "Difficulty": "None\uff08JOI\u96e3\u6613\u5ea6:7\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2016yo_E_-_\u30be\u30f3\u30d3\u5cf6_(Zombie_Island)": {
+    "Difficulty": "None\uff08JOI\u96e3\u6613\u5ea6:7\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2021ho_A_-_\u3068\u3066\u3082\u305f\u306e\u3057\u3044\u5bb6\u5ead\u83dc\u5712_(Growing_Vegetables_is_Fun_4)": {
+    "Difficulty": "None\uff08JOI\u96e3\u6613\u5ea6:7\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2015yo_E_-_\u7802\u306e\u57ce_(Sandcastle)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea6:7\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u62e1\u5f35BFS"
+    ]
+  },
+  "ARC144_C._K_Derangement": {
+    "Difficulty": 1622,
+    "Tags": [
+      "#ARC144",
+      "#ARC",
+      "#\u30e9\u30f3\u30c0\u30e0\u30c6\u30b9\u30c8"
+    ]
+  },
+  "M_SOLUTIONS2020_F._Air_Safety": {
+    "Difficulty": 2005,
+    "Tags": [
+      "#M_SOLU",
+      "#M_S",
+      "#lower_bound",
+      "#\u56de\u8ee2",
+      "#\u885d\u7a81\u4e88\u6e2c"
+    ]
+  },
+  "ARC132_C._Almost_Sorted": {
+    "Difficulty": 1616,
+    "Tags": [
+      "#ARC132",
+      "#ARC",
+      "#map\u3092\u4f7f\u3063\u305fDP",
+      "#deque",
+      "#\u30e1\u30e2\u30ea\u89e3\u653e"
+    ]
+  },
+  "JOI_joi2009ho_C_-_\u3042\u307f\u3060\u304f\u3058": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:7)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "ABC131_F._Must_Be_Rectangular\uff01": {
+    "Difficulty": 1937,
+    "Tags": [
+      "#ABC131",
+      "#ABC",
+      "#Union-Find"
+    ]
+  },
+  "ARC102_D._All_Your_Paths_are_Different_Lengths": {
+    "Difficulty": 1810,
+    "Tags": [
+      "#ARC102",
+      "#ARC",
+      "#bit\u306b\u6ce8\u76ee"
+    ]
+  },
+  "M_SOLUTIONS2020_E._M's_Solution": {
+    "Difficulty": 2268,
+    "Tags": [
+      "#M_SOLU",
+      "#M_S",
+      "#3^N",
+      "#\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u8ddd\u96e2\u306e\u6700\u5c0f\u5316"
+    ]
+  },
+  "ABC197_F._Construct_a_Palindrome": {
+    "Difficulty": 1945,
+    "Tags": [
+      "#ABC197",
+      "#ABC"
+    ]
+  },
+  "JOI_joi2021_yo2_D_-_\u5b89\u5168\u70b9\u691c_(Safety_Inspection)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea6:8\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u7b54\u3048\u3067\u4e8c\u5206\u63a2\u7d22",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "JOI_joi2021_yo2_C_-_\u30a4\u30d9\u30f3\u30c8\u5de1\u308a_(Event_Hopping)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea6:8\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u5ea7\u6a19\u5727\u7e2e",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "JOI_joi2018_yo_F_-_L\u756a\u76ee\u306eK\u756a\u76ee\u306e\u6570_(LthKthNumber)": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u53f3\u7aef\u3092\u56fa\u5b9a",
+      "#\u5c3a\u53d6\u308a\u6cd5"
+    ]
+  },
+  "JOI_joi2017ho_C_-_JOIOI_\u738b\u56fd_(Kingdom_of_JOIOI)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea68\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u89e3\u8aacAC"
+    ]
+  },
+  "JOI_joi2011ho_A_-_\u60d1\u661f\u63a2\u67fb_(Planetary_Exploration)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea6:5\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2017ho_B_-_\u6e96\u6025\u96fb\u8eca_(Semiexpress)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:8)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#priority_queue"
+    ]
+  },
+  "JOI_joi2016ho_C_-_\u9244\u9053\u904b\u8cc3_(Train_Fare)": {
+    "Difficulty": "None \uff08JOI\u96e3\u6613\u5ea68\uff09",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u62e1\u5f35BFS"
+    ]
+  },
+  "JOI_joi2016yo-F_\u5c4b\u53f0_(Food_stalls)": {
+    "Difficulty": "None (JOI\u96e3\u6613\u5ea6:8)",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2015ho_b": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest",
+      "#\u533a\u9593DP",
+      "#\u5186\u74b0"
+    ]
+  },
+  "AGC016_B._Colorful_Hats": {
+    "Difficulty": 1626,
+    "Tags": [
+      "#AGC016",
+      "#AGC"
+    ]
+  },
+  "JOI_joi2013ho3": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joi2009yo_e": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "ARC168_D._Maximize_Update": {
+    "Difficulty": 2440,
+    "Tags": [
+      "#ARC168",
+      "#\u533a\u9593DP"
+    ]
+  },
+  "JOI_joisc2010_aplusb": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "ABC227_F._Treasure_Hunting": {
+    "Difficulty": 2323,
+    "Tags": [
+      "#ABC227"
+    ]
+  },
+  "JOI_joisc2008_fraction": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2008_flu": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "JOI_joisc2008_sheet": {
+    "Difficulty": "None",
+    "Tags": [
+      "#JOI",
+      "#OtherContest"
+    ]
+  },
+  "ABC273_F._Hammer_2": {
+    "Difficulty": 2277,
+    "Tags": [
+      "#ABC273"
+    ]
+  },
+  "ABC215_F._Dist_Max_2": {
+    "Difficulty": 1853,
+    "Tags": [
+      "#ABC215"
+    ]
+  },
+  "ABC283_F._Permutation_Distance": {
+    "Difficulty": 1771,
+    "Tags": [
+      "#ABC283",
+      "#\u30bb\u30b0\u30e1\u30f3\u30c8\u6728"
+    ]
+  },
+  "ARC070_D._No_Need": {
+    "Difficulty": 2015,
+    "Tags": [
+      "#ARC070"
+    ]
+  },
+  "ABC308_G._Minimum_Xor_Pair_Query": {
+    "Difficulty": 2008,
+    "Tags": [
+      "#ABC308"
+    ]
+  },
+  "ABC312_G._Avoid_Straight_Line": {
+    "Difficulty": 1819,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_F._Cans_and_Openers": {
+    "Difficulty": 1534,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_A._Chord": {
+    "Difficulty": -990,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_B._TaK_Code": {
+    "Difficulty": 153,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_C._Invisible_Hand": {
+    "Difficulty": 727,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_E._Tangency_of_Cuboids": {
+    "Difficulty": 2047,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC312_D._Count_Bracket_Sequences": {
+    "Difficulty": 964,
+    "Tags": [
+      "#ABC312"
+    ]
+  },
+  "ABC288_E._Wish_List": {
+    "Difficulty": 2000,
+    "Tags": [
+      "#ABC288"
+    ]
+  },
+  "SOUNDHOUND2018_SUMMER_QUAL_D._Saving_Snuuk": {
+    "Difficulty": 1637,
+    "Tags": [
+      "#SOUNDH"
+    ]
+  },
+  "ABC281_E._Least_Elements": {
+    "Difficulty": 1334,
+    "Tags": [
+      "#ABC281",
+      "#\u30bb\u30b0\u30e1\u30f3\u30c8\u6728"
+    ]
+  },
+  "ABC300_A._N-choice_question": {
+    "Difficulty": -1147,
+    "Tags": [
+      "#ABC300"
+    ]
+  }
+}
