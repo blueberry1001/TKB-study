@@ -42,11 +42,13 @@ for article in pagelist["pages"]:
                 diff = int(diff)
             except ValueError:
                 pass
+    solutions = html_get.getdata(problem_url)
     if diff is not None:
         resdic[pagename] = {
             "Difficulty": diff,
             "Tags": tags,
-            "URL": problem_url
+            "URL": problem_url,
+            "Solution" : solutions
         }
         print(pagename, diff, tags)
 

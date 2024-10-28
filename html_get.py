@@ -2,12 +2,17 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from janome.tokenizer import Tokenizer
-
+from urllib.parse import urlparse
 def gethtml(url):
+    if not urlparse(url).scheme:
+        return "Not Found"
     response = requests.get(url)
     ret = None
     if response.status_code == 200:
         ret = response.text
+    elif response.status_code == 404:
+        ret = "Not Found"
+        # print("Not Foundwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwe")
     else:
         print(url, response.status_code, response.json())
     return ret
@@ -39,6 +44,8 @@ def get_problemstatement(s):
 
 def getdata(url = ""):
     html_d = gethtml(url)
+    if html_d[0]=="N":
+        return []
     ret = get_problemstatement(html_d)
     soup = BeautifulSoup(ret, 'html.parser')
     tag = soup.select("section")[0].get_text()
