@@ -7,3 +7,8 @@
 ### html_get.py
 #### gethtml(url)
 URLに対してGETリクエストを送り、帰ってきたHTMLデータをstr形式で得る。
+
+### scraping.py
+スクレイピングをする
+### main.py
+これがこの先メインになる
