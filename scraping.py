@@ -9,6 +9,7 @@ baseurl = "https://scrapbox.io/Atcoder-myReflection/"
 #いったん10ページ取得しよう
 urllist = html_get.gethtml("https://scrapbox.io/api/pages/Atcoder-myReflection?limit=1000")
 test = True
+test = False
 if test:
     urllist = html_get.gethtml("https://scrapbox.io/api/pages/Atcoder-myReflection?limit=10")
 pagelist = json.loads(urllist)
@@ -42,13 +43,13 @@ for article in pagelist["pages"]:
                 diff = int(diff)
             except ValueError:
                 pass
-    solutions = html_get.getdata(problem_url)
+    words = html_get.getdata(problem_url)
     if diff is not None:
         resdic[pagename] = {
             "Difficulty": diff,
             "Tags": tags,
             "URL": problem_url,
-            "Solution" : solutions
+            "Words" : words
         }
         print(pagename, diff, tags)
 
