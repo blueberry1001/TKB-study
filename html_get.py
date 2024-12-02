@@ -53,8 +53,8 @@ def getdata(url = ""):
 
     t = Tokenizer(wakati=True)
     ret = t.tokenize(problemstatement)
-    for token in t.tokenize(problemstatement):
-        print(token)
+    # for token in t.tokenize(problemstatement):
+    #     print(token)
     ret = list(ret)
     # print(ret)
     ret = sorted(set(ret),reverse=True)
