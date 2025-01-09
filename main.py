@@ -18,5 +18,5 @@ for word in words:
         ret[i]+=model[word][i]
 #値が高いもの順にソート
 sortedret = sorted(ret.items(),key=lambda item:item[1],reverse=True)
-for i,j in sortedret:
+for i,j in sortedret[min(len(sortedret),20)]:
     print(i,j)
